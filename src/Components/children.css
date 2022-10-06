@@ -1,0 +1,19 @@
+.article {
+  background-color: rgb(171, 158, 158);
+  border: 0.1rem solid black;
+  border-radius: 0.2rem;
+  width: 20%;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+button {
+  background-color: white;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  border: 1px solid black;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+}
